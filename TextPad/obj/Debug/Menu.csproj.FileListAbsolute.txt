@@ -1,0 +1,21 @@
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\STUDENTS-1212-11\Desktop\Мартин 11а\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\marin\Desktop\TextPad\Menu\bin\Debug\Menu.exe.config
+C:\Users\marin\Desktop\TextPad\Menu\bin\Debug\Menu.exe
+C:\Users\marin\Desktop\TextPad\Menu\bin\Debug\Menu.pdb
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.exe
+C:\Users\marin\Desktop\TextPad\Menu\obj\Debug\Menu.pdb
